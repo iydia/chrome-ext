@@ -1,0 +1,11 @@
+{
+    "name": "6561",
+    "version": "1.0.0",
+    "description": "The original 2048 game— but in powers of 3!",
+    "manifest_version": 3,
+    "author": "Me",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "6561"
+    }
+}
